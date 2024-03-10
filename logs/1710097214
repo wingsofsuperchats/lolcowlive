@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1710097214,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710097271,
+        "author": "Shinzo Abe",
+        "author_id": "UCNnzX494W3KWFaDgcJHs77A",
+        "text": "Boogie and wings: Police i swear to god not simping for a child. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710098560,
+        "author": "Hate Speaker Sargon Of akkad",
+        "author_id": "UCeftIKq82586kCMmr3WRBVA",
+        "text": "I'm so sad boogie deb,I never got to run through. :[",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710099051,
+        "author": "Blood Feather",
+        "author_id": "UC3Qy3Ale8EQwpHezigkSABA",
+        "text": "Big bungeeee",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1710099929,
+        "author": "Apollo",
+        "author_id": "UCbo_etk5dn1tqMugG6CJokQ",
+        "text": "tax evasion",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710100324,
+        "author": "WingsOfWideChokeShotgun",
+        "author_id": "UC8LgMYc1lBlYpaZkx6Qt1Og",
+        "text": "@wqqdcraft pdf supporter :pig:",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1710101420,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 51.99
+    }
+]
