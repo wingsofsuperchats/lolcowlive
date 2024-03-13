@@ -1,0 +1,66 @@
+[
+    {
+        "event": "start",
+        "time": 1710356413,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710356929,
+        "author": "User",
+        "author_id": "UC917c1p30P3SNH5ORUABDPg",
+        "text": "1",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710357928,
+        "author": "Derick Lee Fredrick Clips ",
+        "author_id": "UCJbR2zWdSs9Zi6cJDubkUZA",
+        "text": "BBC stream",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710358275,
+        "author": "Panickpun",
+        "author_id": "UCHkuLP53nhlbg7zKtoWV9Ow",
+        "text": "hes doesn't date fat women bc he doesn't wanna share food",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1710359258,
+        "author": "DuckNation",
+        "author_id": "UChxYXqhTRSNbXT6K0mZL_zQ",
+        "text": "they cut the part were grace says she wanted her dad to punch her because she felt like she deserved it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710360241,
+        "author": "Apollo",
+        "author_id": "UCbo_etk5dn1tqMugG6CJokQ",
+        "text": "wings wants to kiss her gf",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710360386,
+        "author": "Vincent Mcglone",
+        "author_id": "UCsdnRSBcMdwtb924GqsYxlA",
+        "text": "boogie is a p df ile",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1710361224,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 5.0
+    }
+]
