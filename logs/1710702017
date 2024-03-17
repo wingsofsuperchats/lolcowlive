@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1710702017,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710702316,
+        "author": "namethatiuse",
+        "author_id": "UCWemdGPNIBE-Y-SQIL9OIbA",
+        "text": "Onision w guest",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710702517,
+        "author": "This_Drummer",
+        "author_id": "UC10096BsiG8j9SJik5lrK3A",
+        "text": "Drum",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710703121,
+        "author": "Ms. Stripes",
+        "author_id": "UCxEhVAMaPobKvWZEks9wGtg",
+        "text": "He’s dating KallMeKris (Kristin), iThey really seem to have a great relationship, it’s sweet.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710703636,
+        "author": "Matt",
+        "author_id": "UCu7Pgn966fKGisHu_xtWDEg",
+        "text": ":sleeping_face::sleeping_face::sleeping_face::sleeping_face::sleeping_face::sleeping_face::sleeping_face::sleeping_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710704457,
+        "author": "Cz-Bundy",
+        "author_id": "UCszEolRxLljy2TfZOSz81Pw",
+        "text": "me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710706316,
+        "author": "YoBoyFargoth",
+        "author_id": "UCTj0kkJZiE5kqAHc1s9xzOQ",
+        "text": "Bro what? Kiełbasas are the shit 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710706589,
+        "author": "Justin",
+        "author_id": "UCwNs_TJKUYYD0A38y1xdyTg",
+        "text": "W",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1710707136,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
