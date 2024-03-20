@@ -1,0 +1,34 @@
+[
+    {
+        "event": "start",
+        "time": 1710963852,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710965699,
+        "author": "Sky",
+        "author_id": "UCgyyCBA7x6BVkuuQS6tVmMA",
+        "text": "S",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710966111,
+        "author": "Waterboy",
+        "author_id": "UCzJctxdQb6G8O9uB10E3kdg",
+        "text": "Keen is based",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1710966982,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
