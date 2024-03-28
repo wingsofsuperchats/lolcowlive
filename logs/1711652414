@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1711652414,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1711653471,
+        "author": "Michelle So Gucci",
+        "author_id": "UCYbbGWPkdHPNvhbBLLLgAQg",
+        "text": "I'm not a fan of either channel so no strong opinion either way, but Jay's entitled and unhinged, and Eric needs to get a life ",
+        "usd": 3.69
+    },
+    {
+        "event": "ban",
+        "time": 1711653567,
+        "author": "Andy",
+        "author_id": "UCqS-FoUdIyaWHq4Dze_KUdg",
+        "text": "She said Faġġoțș",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1711655573,
+        "author": "56k Warning!",
+        "author_id": "UC27U9n-JlaRs_cKMMERqyNA",
+        "text": "Keem should make his kick a thing.",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1711655823,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 3.69
+    }
+]
