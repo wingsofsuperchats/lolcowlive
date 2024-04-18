@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1713398412,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713398711,
+        "author": "Drinky Ry",
+        "author_id": "UCv0zKNuOtjBs4jvhwpgLMRQ",
+        "text": "doin a lot of gay stuff",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713398719,
+        "author": "Ricky Eska",
+        "author_id": "UC_yYwaP-ibVgo59SHinXUEg",
+        "text": "This episode is clickbait. the whole thing is a snoozer. nothing happens",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713398743,
+        "author": "doobie boogie",
+        "author_id": "UCW7YzKrjmJ0or2_p1b9r3dg",
+        "text": "Nobody cares about this",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713400668,
+        "author": "Alan Smithee",
+        "author_id": "UCEiKxSCgFxdX2NFuoWkxkSA",
+        "text": "ShT ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713401305,
+        "author": "modaflockur",
+        "author_id": "UCa0ZucNi6bLYcdK4K7N_azw",
+        "text": "He’s tryna scare the women away as easy as possible ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1713404132,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
