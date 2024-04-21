@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1713726012,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713726513,
+        "author": "Pwapy",
+        "author_id": "UCCP_wj_Mj2pWRri93JuqElg",
+        "text": "LOOK HERE, LISTEN",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1713728969,
+        "author": "Gustavo Figueroa",
+        "author_id": "UCcN0FZZQ4JEQ8-4AHXtFIoA",
+        "text": "at the end of the day....",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713729912,
+        "author": "BALDNEWSNETWORK",
+        "author_id": "UCW-dfVWLRRCQri3EREKo8XA",
+        "text": "Please tell Tommy he deserves a massive raise:red_heart:",
+        "usd": 4.99
+    },
+    {
+        "event": "end",
+        "time": 1713731104,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 6.98
+    }
+]
