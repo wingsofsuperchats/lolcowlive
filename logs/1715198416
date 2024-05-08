@@ -1,0 +1,26 @@
+[
+    {
+        "event": "start",
+        "time": 1715198416,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715198820,
+        "author": "loix",
+        "author_id": "UC1eZqcjmN0NhWl3hMhW1rZg",
+        "text": "Polored GETS IT",
+        "usd": 2.5
+    },
+    {
+        "event": "end",
+        "time": 1715199561,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 2.5
+    }
+]
