@@ -1,0 +1,34 @@
+[
+    {
+        "event": "start",
+        "time": 1715545811,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715548518,
+        "author": "Hate Speaker Sargon Of akkad",
+        "author_id": "UCeftIKq82586kCMmr3WRBVA",
+        "text": "how is this run over bullfrog the same guy that was on Dr Phill? I've seen civil war Era leather bags hold up better than this poor poor man's face. ",
+        "usd": 50.0
+    },
+    {
+        "event": "ban",
+        "time": 1715549976,
+        "author": "Jar Vo",
+        "author_id": "UCrCq_A5SfUS2GHMK8KH3VcQ",
+        "text": "psycho",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1715552215,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 50.0
+    }
+]
