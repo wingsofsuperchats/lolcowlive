@@ -1,0 +1,50 @@
+[
+    {
+        "event": "start",
+        "time": 1716152410,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1716153571,
+        "author": "Lordxrush",
+        "author_id": "UCy_12i-U0tJVO9QyYz5TCJQ",
+        "text": "Can we just take some time out and say thanks to this editor.... he's on point with this flash backs",
+        "usd": 50.0
+    },
+    {
+        "event": "ban",
+        "time": 1716154553,
+        "author": "slippinjimmy",
+        "author_id": "UCYNlHA-ziuF-pyokDHeRiGQ",
+        "text": "why does boogie think we care about this?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1716155214,
+        "author": "Wraith",
+        "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
+        "text": "Wings should've hired him as Mr Peanut V2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1716155874,
+        "author": "xbigEx",
+        "author_id": "UC4B2vXMY72PhoZyABqHRXTQ",
+        "text": "veges nerve",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1716156526,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 50.0
+    }
+]
