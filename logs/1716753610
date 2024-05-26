@@ -1,0 +1,34 @@
+[
+    {
+        "event": "start",
+        "time": 1716753610,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1716753611,
+        "author": "Babooski ",
+        "author_id": "UCARO6pknrDpm3HgqhaxYLSQ",
+        "text": "Keem is the worst person on the show",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1716754184,
+        "author": "Babooski ",
+        "author_id": "UCARO6pknrDpm3HgqhaxYLSQ",
+        "text": "As long as Keem isn’t in this one we’re good",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1716758074,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 3.98
+    }
+]
