@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1717959620,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1717960040,
+        "author": "John Bono",
+        "author_id": "UC3eLJuTXySWG86FGi7ZsKTg",
+        "text": "Wings slept with 12, 13, 14",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1717961208,
+        "author": "Toxik Dubz",
+        "author_id": "UCFVOCC2BtsTKc2J0em8XbxQ",
+        "text": "GRACE isn't worth acknowledging",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1717961281,
+        "author": "RammerJammer",
+        "author_id": "UCN7_b7ZtfCurd3kguR5v1_g",
+        "text": "I wanna see the original good boy tuber Shaycarl and his fall from grace, he’s a lol cow ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1717962457,
+        "author": "Toxik Dubz",
+        "author_id": "UCFVOCC2BtsTKc2J0em8XbxQ",
+        "text": "DELUSIONAL",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1717963222,
+        "author": "Toxik Dubz",
+        "author_id": "UCFVOCC2BtsTKc2J0em8XbxQ",
+        "text": "Speak of the Devil",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1717963746,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 4.99
+    }
+]
