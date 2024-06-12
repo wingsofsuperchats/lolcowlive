@@ -1,0 +1,26 @@
+[
+    {
+        "event": "start",
+        "time": 1718231418,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1718233480,
+        "author": "Kendra",
+        "author_id": "UCygYCfAu_Er8kZxwnj8Qc8w",
+        "text": "No one cares about Leafy any more ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1718233714,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
