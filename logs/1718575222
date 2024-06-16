@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1718575222,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1718576673,
+        "author": "Toxik Dubz",
+        "author_id": "UCFVOCC2BtsTKc2J0em8XbxQ",
+        "text": "Every episode is a Learning Channel episode",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1718577993,
+        "author": "White Lotus ",
+        "author_id": "UCxnYliDtZm3UDWpsKdtOfHw",
+        "text": "@videogames probably how you ended up as a kid for this podcast ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1718578501,
+        "author": "Eggpicker",
+        "author_id": "UCeQN2gJViL1lUu5gH1vqwWQ",
+        "text": "C",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1718582054,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
