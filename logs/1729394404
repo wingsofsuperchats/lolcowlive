@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1729394404,
+        "author": "LolcowLive",
+        "author_id": "DHgLBZXkmpc",
+        "text": "Come hang! -KEEM 2024-10-20 03:20",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1729394405,
+        "author": "Shy",
+        "author_id": "UCSn97NKxznNf01u9RgCfK-w",
+        "text": "",
+        "usd": 300.0
+    },
+    {
+        "event": "superchat",
+        "time": 1729394405,
+        "author": "jacob 👹",
+        "author_id": "UCUcp0fHVpmqA9669dunMlrg",
+        "text": "good vibes",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1729394405,
+        "author": "MayoMonkey Bowblax",
+        "author_id": "UCZAUwuzh-MHqTzcG_mfvxfQ",
+        "text": "Looking good daddy keem",
+        "usd": 5.06
+    },
+    {
+        "event": "viewcount",
+        "time": 1729394405,
+        "author": "",
+        "author_id": "",
+        "text": "941",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1729394497,
+        "author": "",
+        "author_id": "",
+        "text": "1024",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1729395118,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 315.05
+    }
+]
