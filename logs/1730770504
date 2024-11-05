@@ -1,0 +1,82 @@
+[
+    {
+        "event": "start",
+        "time": 1730770504,
+        "author": "LolcowLive",
+        "author_id": "qnjSwKC9l80",
+        "text": "Brantley Made Me Drink!   -  Members Only! 2024-11-05 01:35",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770505,
+        "author": "",
+        "author_id": "",
+        "text": "1031",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770597,
+        "author": "",
+        "author_id": "",
+        "text": "1072",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770688,
+        "author": "",
+        "author_id": "",
+        "text": "1048",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770779,
+        "author": "",
+        "author_id": "",
+        "text": "1131",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1730770796,
+        "author": "Lithius",
+        "author_id": "UCre8VK6Mte7XTlfHthLVaXQ",
+        "text": "👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾",
+        "usd": 20.41
+    },
+    {
+        "event": "superchat",
+        "time": 1730770853,
+        "author": "iCABALi",
+        "author_id": "UCVS4v3SQO3Jg27ylpOTwIBQ",
+        "text": "58. Also Boogie bombed RSGloryAndGold a.k.a Tony Winchester with a Boogie bomb 👇🏾",
+        "usd": 25.9
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770870,
+        "author": "",
+        "author_id": "",
+        "text": "1245",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1730770962,
+        "author": "",
+        "author_id": "",
+        "text": "1317",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1730771623,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 46.31
+    }
+]
