@@ -1,0 +1,26 @@
+[
+    {
+        "event": "start",
+        "time": 1732143905,
+        "author": "LolcowLive",
+        "author_id": "b57Fw4s1SpM",
+        "text": "🔴 MEMBERS ONLY - WE HAVE TO TALK ABOUT KEEMSTAR. 2024-11-20 23:05",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1732143906,
+        "author": "",
+        "author_id": "",
+        "text": "1894",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1732144579,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    }
+]
